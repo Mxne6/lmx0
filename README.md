@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+<p>Welcome to my blog：<a href="https://www.lmx0.top/">lmx0.top</a></p>
+<a href="https://github.com/lmx0">  <!--statics主页地址，可修改-->
+  <img src="https://github-readme-stats.vercel.app/api?username=lmx0"/>   <!--可修改-->
+</a>
+
 
 <!--
 **lmx0/lmx0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
